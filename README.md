@@ -1,16 +1,15 @@
 ### Hi there 👋
-[![](https://github-readme-stats.vercel.app/api?username=ColorDreams)](https://github.com/ColorDreams)
+[![](https://github-readme-stats.vercel.app/api?locale=cn&username=ColorDreams&show_icons=true)](https://github.com/ColorDreams)
+
+:sparkles: Top Languages
+
+[![](https://skillicons.dev/icons?i=java,golang,vue&theme=light)](https://github.com/ColorDream)
+
+:computer: Computer Environment
+
+[![](https://skillicons.dev/icons?i=arch,ubuntu,&theme=light)](https://github.com/ColorDream)
 
 <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![](https://github-readme-stats.vercel.app/api/pin/?locale=cn&username=ColorDreams&repo=ColorDreams)](https://github.com/ColorDreams/ColorDreams)
 -->
+
