@@ -7,7 +7,7 @@
 
 :computer: Computer Environment
 
-[![](https://skillicons.dev/icons?i=arch,ubuntu,&theme=light)](https://github.com/ColorDream)
+[![](https://skillicons.dev/icons?i=arch,ubuntu,windwos&theme=light)](https://github.com/ColorDream)
 
 <!--
 [![](https://github-readme-stats.vercel.app/api/pin/?locale=cn&username=ColorDreams&repo=ColorDreams)](https://github.com/ColorDreams/ColorDreams)
