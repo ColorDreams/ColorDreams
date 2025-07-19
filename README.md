@@ -3,11 +3,11 @@
 
 :sparkles: Top Languages
 
-[![](https://skillicons.dev/icons?i=java,golang,javascript,vue&theme=light)](https://github.com/ColorDreams)
+[![](https://skillicons.dev/icons?i=java,kotlin,golang,python,javascript,vue&theme=light)](https://github.com/ColorDreams)
 
 :sparkles: Learning Languages
 
-[![](https://skillicons.dev/icons?i=python,typescript,react&theme=light)](https://github.com/ColorDreams)
+[![](https://skillicons.dev/icons?i=typescript,react&theme=light)](https://github.com/ColorDreams)
 
 :sparkles: Plan Learning Languages
 
